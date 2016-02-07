@@ -72,7 +72,9 @@ repository state.
 NOTE: The GitHub repository also contains the dataset for the
 assignment so you do not have to download the data separately.
 
-
+### Notes to Peer Evaluators 
+Please review all files with naming pattern  PA_template* 
+Generated images are available in ~RepData_PeerAssessment1\PA1_template_files\figure-html
 
 ### Loading and preprocessing the data
 
