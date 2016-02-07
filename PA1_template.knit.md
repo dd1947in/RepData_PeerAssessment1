@@ -302,4 +302,5 @@ plot(x_int_mean_we, y_int_mean_we, type="l", xlab="Interval", ylab="Mean Steps",
 #dev.off()
 ```
 
-
+## 9.All of the R code needed to reproduce the results (numbers, plots, etc.) in the report
+   Please review all the other *.png, and *.R files 
